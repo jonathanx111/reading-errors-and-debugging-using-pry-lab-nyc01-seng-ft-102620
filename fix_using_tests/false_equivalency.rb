@@ -8,7 +8,7 @@ def two_sum(nums, target)
     return [i, idx] if i
 
     map[num] = idx
-    binding.pry
+    
   end
 end
 
